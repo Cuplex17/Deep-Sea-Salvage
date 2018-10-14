@@ -1,13 +1,32 @@
 "# Deep-Sea-Salvage Changelog" 
 
-v0.0.6:
-- Changed early game ore processing method. You can now use grills to smelt ores now. Planning to add ore doubling through BWM Kilns. 
-- Added wand of the forest to starting chest. 
-- Buffed the daybloom and the nightshade so they can actually sustain your life underwater early game. No more sudden drowning!
-- Buffed the lanolin effective time. 
-- Increased the amount of lanolin gained per smelt. 
+v0.0.8:
 
- 
+YOU WILL NEED A WORLD RESET. I APOLOGISE FOR ANY INCONVENIENCE CAUSED.
+
+Changes:
+- Removed Aqua Creepers. They were too difficult to avoid and too hard of a mob to fight.
+- Deleted some unecessary config files
+- Fixed biome tweaker scripts: removed errors, changed colour of water. 
+- Added Lost Cities to generation. This will replace most if not all other structures. 
+
+v0.0.7:
+Changes:
+- Davinci's Vessels. Submarines only. Steam engine must be attached. Allowed blocks are: Steel Blocks, slab, fence, sheet metal (all from Immersive Engineering), structural glass (from mekanism), lit redstone lamp (from quark) and vault / blast door (from malisis doors).
+
+- Removed World Edit. Sorry, forgot to remove it after building structures...
+
+v0.0.6:
+Changes:
+- Changed early game ore processing method. You can now use grills to smelt ores now. Planning to add ore doubling through BWM Kilns. 
+
+- Added wand of the forest to starting chest. 
+
+- Buffed the daybloom and the nightshade so they can actually sustain your life underwater early game. No more sudden drowning!
+
+- Buffed the lanolin effective time. 
+
+- Increased the amount of lanolin gained per smelt. 
 
 More changes coming soon™
 
