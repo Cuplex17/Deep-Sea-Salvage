@@ -8,6 +8,7 @@ Changes:
 - Removed Aqua Creepers. They were too difficult to avoid and too hard of a mob to fight.
 - Deleted some unecessary config files
 - Fixed biome tweaker scripts: removed errors, changed colour of water. 
+- Added Pretty Beaches. Works on some occasions but mainly added to stop the weirdness of underwater broken blocks.
 - Added Lost Cities to generation. This will replace most if not all other structures. 
 
 v0.0.7:
