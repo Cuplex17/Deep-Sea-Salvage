@@ -9,6 +9,7 @@ Changes:
 - Deleted some unecessary config files
 - Fixed biome tweaker scripts: removed errors, changed colour of water. 
 - Added Pretty Beaches. Works on some occasions but mainly added to stop the weirdness of underwater broken blocks.
+- Added The Fauna Amplications. This adds sharks, piranhas, penguins etc.
 - Added Lost Cities to generation. This will replace most if not all other structures. 
 
 v0.0.7:
