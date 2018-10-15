@@ -6,11 +6,14 @@ YOU WILL NEED A WORLD RESET. I APOLOGISE FOR ANY INCONVENIENCE CAUSED.
 
 Changes:
 - Removed Aqua Creepers. They were too difficult to avoid and too hard of a mob to fight.
+- Removed No Caves. This will make creating new worlds and loading chunks much quicker. However, this will mean that small caves with air will generate.
+But it will be highly unlikely players can come across this. 
 - Deleted some unecessary config files
 - Fixed biome tweaker scripts: removed errors, changed colour of water. 
 - Added Pretty Beaches. Works on some occasions but mainly added to stop the weirdness of underwater broken blocks.
 - Added The Fauna Amplications. This adds sharks, piranhas, penguins etc.
-- Added Lost Cities to generation. This will replace most if not all other structures. 
+- Added Lost Cities to generation. This will be the simple and first tier exploration structures.
+- Added Additional Loot Tables. This allows me to customise loot tables easily.
 
 v0.0.7:
 Changes:
