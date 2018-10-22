@@ -11,9 +11,8 @@ But it will be highly unlikely players can come across this.
 - Deleted some unecessary config files
 - Fixed biome tweaker scripts: removed errors, changed colour of water.
 - The script for recipes for botania flowers have been tweaked. No longer removes original recipe, instead just adds the new ones.
-- Added Pretty Beaches. Works on some occasions but mainly added to stop the weirdness of underwater broken blocks.
-- Added Content Tweaker. For custom script usage.
-- Added The Fauna Amplications. This adds sharks, piranhas, penguins etc.
+- When a block is broken, if there is water next to it, it will instantly fill that broken block space with water. 
+- Mo' Creatures. Adding more life to the ocean. 
 - Added Lost Cities to generation. This will be the simple and first tier exploration structures.
 - Added Additional Loot Tables. This allows me to customise loot tables easily.
 
