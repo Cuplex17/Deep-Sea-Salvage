@@ -11,8 +11,9 @@ But it will be highly unlikely players can come across this.
 - Deleted some unecessary config files
 - Fixed biome tweaker scripts: removed errors, changed colour of water.
 - The script for recipes for botania flowers have been tweaked. No longer removes original recipe, instead just adds the new ones.
-- When a block is broken, if there is water next to it, it will instantly fill that broken block space with water. 
-- Mo' Creatures. Adding more life to the ocean. 
+- When a block is broken, if there is water next to it, it will instantly fill that broken block space with water.
+- Buffed Lanolin...again...
+- Added Mo' Creatures. Adding more life to the ocean. 
 - Added Lost Cities to generation. This will be the simple and first tier exploration structures.
 - Added Additional Loot Tables. This allows me to customise loot tables easily.
 - Added Pam's Harvestcraft. More foods, this will be made necessary in a few lines.
@@ -20,6 +21,8 @@ But it will be highly unlikely players can come across this.
 - Added Nutrition. Now you need to worry about food (only slightly though).
 - Added Tough as Nails. Spicing up the early game.
 - Added Tough Expansion. Providing easy survivability late game.
+- Added Tidy Chunk. For removing most of those item entities that float during world generation. Should decrease lag.
+- Added Enchiridion. For a in game wiki....sorta...
 
 v0.0.7:
 Changes:
