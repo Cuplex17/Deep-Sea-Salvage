@@ -1,19 +1,17 @@
 "# Deep-Sea-Salvage Changelog" 
 
 v0.1.0:
-
+MORE WORLD GEN COMING SOON. THIS VERSION IS NOT FOR EXTENDED PLAY.
 YOU WILL NEED A WORLD RESET. I APOLOGISE FOR ANY INCONVENIENCE CAUSED.
 
 Changes:
+
+Removed:
 - Removed Aqua Creepers. They were too difficult to avoid and too hard of a mob to fight.
 - Removed No Caves. This will make creating new worlds and loading chunks much quicker. However, this will mean that small caves with air will generate.
 But it will be highly unlikely players can come across this. 
-- Deleted some unecessary config files
-- Fixed biome tweaker scripts: removed errors, changed colour of water.
-- The script for recipes for botania flowers have been tweaked. No longer removes original recipe, instead just adds the new ones.
-- When a block is broken, if there is water next to it, it will instantly fill that broken block space with water.
-- You can no longer place certain blocks underwater such as torches, ladders, doors etc. This is to stop the cheaty air pockets created by those blocks / items. 
-- Buffed Lanolin...again...
+
+Added:
 - Added Mo' Creatures. Adding more life to the ocean. 
 - Added Lost Cities to generation. This will be the simple and first tier exploration structures.
 - Added Additional Loot Tables. This allows me to customise loot tables easily.
@@ -24,6 +22,15 @@ But it will be highly unlikely players can come across this.
 - Added Tough Expansion. Providing easy survivability late game.
 - Added Tidy Chunk. For removing most of those item entities that float during world generation. Should decrease lag.
 - Added Enchiridion. For a in game wiki....sorta...
+- Added Incorporeal. Expanding the botania storage system. 
+
+Configuration Changes:
+- Deleted some unecessary config files
+- Fixed biome tweaker scripts: removed errors, changed colour of water.
+- The script for recipes for botania flowers have been tweaked. No longer removes original recipe, instead just adds the new ones.
+- When a block is broken, if there is water next to it, it will instantly fill that broken block space with water.
+- You can no longer place certain blocks underwater such as torches, ladders, doors etc. This is to stop the cheaty air pockets created by those blocks / items. 
+- Buffed Lanolin...again...
 
 v0.0.7:
 Changes:
