@@ -29,6 +29,8 @@ Configuration Changes:
 - Fixed biome tweaker scripts: removed errors, changed colour of water.
 - Smelting ores in a Better With Mods kiln now yields double.
 - Chopping logs using a Better With Mods saw now yields 8.
+- Sifting sand now yields coral.
+- Fisherman strainer now has all the aquaculture fishes.
 - The script for recipes for botania flowers have been tweaked. No longer removes original recipe, instead just adds the new ones.
 - When a block is broken, if there is water next to it, it will instantly fill that broken block space with water.
 - You can no longer place certain blocks underwater such as torches, ladders, doors etc. This is to stop the cheaty air pockets created by those blocks / items. 
