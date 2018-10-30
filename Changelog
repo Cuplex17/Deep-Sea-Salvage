@@ -23,6 +23,8 @@ Added:
 - Added Tidy Chunk. For removing most of those item entities that float during world generation. Should decrease lag.
 - Added Enchiridion. For a in game wiki....sorta...
 - Added Incorporeal. Expanding the botania storage system. 
+- Added Artisan Worktables. Vanilla crafting table is now more mid-end game tier. Don't worry, you can still use auto crafting methods like
+  the crafty crate. NO RECIPES ADDED AS OF YET.
 
 Configuration Changes:
 - Deleted some unecessary config files
