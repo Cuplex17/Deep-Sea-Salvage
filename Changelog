@@ -9,14 +9,14 @@ Changes:
 Removed:
 - Removed Aqua Creepers. They were too difficult to avoid and too hard of a mob to fight.
 - Removed No Caves. This will make creating new worlds and loading chunks much quicker. However, this will mean that small caves with air will generate.
-But it will be highly unlikely players can come across this. 
+But it will be highly unlikely players can come across this.
+- Removed Wooden Buckets. Where completely useless. 
+- Removed TrashSlot. Quark has its own one.
 
 Added:
 - Added Mo' Creatures. Adding more life to the ocean. 
 - Added Lost Cities to generation. This will be the simple and first tier exploration structures.
-- Added Additional Loot Tables. This allows me to customise loot tables easily.
 - Added Pam's Harvestcraft. More foods, this will be made necessary in a few lines.
-- Added Harvestables. Easier farming.
 - Added Nutrition. Now you need to worry about food (only slightly though).
 - Added Tough as Nails. Spicing up the early game.
 - Added Tough Expansion. Providing easy survivability late game.
@@ -24,7 +24,7 @@ Added:
 - Added Enchiridion. For a in game wiki....sorta...
 - Added Incorporeal. Expanding the botania storage system. 
 - Added Artisan Worktables. Vanilla crafting table is now more mid-end game tier. Don't worry, you can still use auto crafting methods like
-  the crafty crate. NO RECIPES ADDED AS OF YET.
+  the crafty crate. NOT ALL RECIPES ADDED YET. THIS IS JUST A TEST.
 
 Configuration Changes:
 - Deleted some unecessary config files
