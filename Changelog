@@ -6,9 +6,12 @@ Configuration Changes:
   It was creating issues such as not being able to play underwater.
 - Added crafting recipes for all artisan worktables.
 - Added crafting recipes for all artisan worktable tools.
+- Converted more normal crafting recipes to artisan worktables. More will come in the future. 
 
 Tip: for those people wandering about how to survive the early game by feeding the Bubbell, 5 sunshine / moonlight lillies should
 do the job. They are passive flowers so they decay so it's best to automate them as quick as you can.
+
+I am currently very busy with life. Please report problems you find with each update on Github and I will try to fix them. 
 
 v0.1.0:
 MORE WORLD GEN COMING SOON. THIS VERSION IS NOT FOR EXTENDED PLAY.
