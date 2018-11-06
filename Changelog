@@ -1,5 +1,15 @@
 "# Deep-Sea-Salvage Changelog" 
 
+v0.1.1:
+Configuration Changes:
+- Deleted the script that replaces all broken underwater blocks with water sources.
+  It was creating issues such as not being able to play underwater.
+- Added crafting recipes for all artisan worktables.
+- Added crafting recipes for all artisan worktable tools.
+
+Tip: for those people wandering about how to survive the early game by feeding the Bubbell, 5 sunshine / moonlight lillies should
+do the job. They are passive flowers so they decay so it's best to automate them as quick as you can.
+
 v0.1.0:
 MORE WORLD GEN COMING SOON. THIS VERSION IS NOT FOR EXTENDED PLAY.
 YOU WILL NEED A WORLD RESET. I APOLOGISE FOR ANY INCONVENIENCE CAUSED.
