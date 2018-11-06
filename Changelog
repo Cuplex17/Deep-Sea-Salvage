@@ -3,7 +3,7 @@
 v0.1.1:
 Configuration Changes:
 - Deleted the script that replaces all broken underwater blocks with water sources.
-  It was creating issues such as not being able to play underwater.
+  It was creating issues such as not being able to play underwater. Fixed for issue(s) #1, #2
 - Added crafting recipes for all artisan worktables.
 - Added crafting recipes for all artisan worktable tools.
 - Converted more normal crafting recipes to artisan worktables. More will come in the future. 
