@@ -1,5 +1,13 @@
 "# Deep-Sea-Salvage Changelog" 
 
+v0.1.2:
+Changes:
+- Added Cooking for Blockheads. Forgot to add that last time. 
+
+Configuration Changes:
+- More recipes converted to A.W
+- Market only has a limited stock now. You are encouraged to find other ways to obtain farm animals.
+
 v0.1.1:
 Configuration Changes:
 - Deleted the script that replaces all broken underwater blocks with water sources.
