@@ -2,7 +2,13 @@
 
 v0.1.2:
 Changes:
-- Added Cooking for Blockheads. Forgot to add that last time. 
+Remmoved:
+- Random Things. Useless since I have removed some structures that needed it. It is also not helping with the restricted usage. 
+
+Added:
+- Cooking for Blockheads. Forgot to add that last time. 
+- Immersive Cables. Adding some more customisation with Applied Energistics. Now you can make it fit into your Immersive Engineering builds.
+- Lilliputian. Configuring mob sizes. Gigantic deep sea squids. 
 
 Configuration Changes:
 - More recipes converted to A.W
