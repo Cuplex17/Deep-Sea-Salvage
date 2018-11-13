@@ -4,12 +4,15 @@ v0.1.2:
 Changes:
 Remmoved:
 - Random Things. Useless since I have removed some structures that needed it. It is also not helping with the restricted usage. 
+- Enchiridion. Replaced with something better.
 
 Added:
 - Cooking for Blockheads. Forgot to add that last time. 
+- Just Enough Harvestcraft. JEI integration for Pam's Harvestcraft. 
 - Immersive Cables. Adding some more customisation with Applied Energistics. Now you can make it fit into your Immersive Engineering builds.
 - Lilliputian. Configuring mob sizes. Gigantic deep sea squids. 
-- Added LootTweaker. Allows me to change loot tables.
+- LootTweaker. Allows me to change loot tables.
+- Patchouli. Replacement of Enchiridion with more control.
 
 Configuration Changes:
 - More recipes converted to A.W
