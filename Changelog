@@ -19,6 +19,8 @@ Configuration Changes:
 - Most helmets will be automatically enchanted with Aqua Affinity upon crafting. This is to make it easier to explore early on.
 - Market only has a limited stock now. You are encouraged to find other ways to obtain farm animals.
 - Fixed the typo in scripts. Fixed for issues(s) #3
+- Lost Cities now generate with Basic Worktables instead of crafting tables.
+- Lost Cities now generate full glass blocks instead of panes.
 
 v0.1.1:
 Configuration Changes:
