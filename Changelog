@@ -1,6 +1,7 @@
 "# Deep-Sea-Salvage Changelog" 
 
 v0.2.0:
+A LOT OF CHANGES. PLEASE GIVE FEEDBACK. NONE OF THESE CHANGES ARE SET IN STONE, I WANT TO GET COMMUNITY FEEDBACK. 
 Changes:
 Remmoved:
 - Random Things. Useless since I have removed some structures that needed it. It is also not helping with the restricted usage. 
@@ -20,6 +21,8 @@ Added:
 - Triumph. A quest mod that uses vanilla advancements.
 - Tinker's Construct Suite. Replacement for Age of Weapons. Don't worry, this won't turn into your bog standard tinker's modpack. I will try to gate
 it and change it on request. Please give feedback on this. 
+- Reskillable. Adds more ways for me to define the progression line. This won't be as harsh as say in Forever Stranded: Lost Souls, but similar in
+style. 
 
 Configuration Changes:
 - More recipes converted to A.W
