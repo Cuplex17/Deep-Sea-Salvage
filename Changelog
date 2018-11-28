@@ -37,6 +37,8 @@ Configuration Changes:
 - Lost Cities now generate full glass blocks instead of panes.
 - More interesting things in Lost Cities
 
+The advancement system isn't completed yet. I want to get feedback first before working on it further.
+
 v0.1.1:
 Configuration Changes:
 - Deleted the script that replaces all broken underwater blocks with water sources.
