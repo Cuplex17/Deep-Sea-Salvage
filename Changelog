@@ -5,6 +5,7 @@ Changes:
 Configuration Changes:
 - Fixed the Artisan Worktables spanner recipe conflicting with Ex Nihilo Creation hammer recipe. All Ex Nihilo recipes have been removed.
 Players need to use a "Smashing Modifier" added to their tinker tools to gain the Ex Nihilo hammer smashing ability. 
+- Fixed typo in recipe script. 
 
 v0.2.0:
 A LOT OF CHANGES. PLEASE GIVE FEEDBACK. NONE OF THESE CHANGES ARE SET IN STONE, I WANT TO GET COMMUNITY FEEDBACK. 
