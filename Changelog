@@ -2,16 +2,21 @@
 
 v0.2.1:
 Changes:
+Added:
+- ContentTweaker. Again...
+
 Configuration Changes:
 - Fixed the Artisan Worktables spanner recipe conflicting with Ex Nihilo Creation hammer recipe. All Ex Nihilo recipes have been removed.
 Players need to use a "Smashing Modifier" added to their tinker tools to gain the Ex Nihilo hammer smashing ability. 
 - Fixed typo in recipe script. 
 - Canteen recipe completely removed. Players can now only use glass bottles. The canteen had a few bugs in it (negative durability).
+- New blocks added by content tweaker: Blue Ice (from 1.13), all types of coral blocks (from 1.13). Coral doesn't die when out of water yet.
+Hopefully this feature would be added soon along with world generation using it.
 
 v0.2.0:
 A LOT OF CHANGES. PLEASE GIVE FEEDBACK. NONE OF THESE CHANGES ARE SET IN STONE, I WANT TO GET COMMUNITY FEEDBACK. 
 Changes:
-Remmoved:
+Removed:
 - Random Things. Useless since I have removed some structures that needed it. It is also not helping with the restricted usage. 
 - Enchiridion. Replaced with something better.
 - Better Questing. Replaced with something better.
