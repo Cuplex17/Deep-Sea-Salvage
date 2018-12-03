@@ -4,6 +4,7 @@ v0.2.1:
 Changes:
 Added:
 - ContentTweaker. Again...
+- CoFH World. Because other mods don't provide the things I need.
 
 Configuration Changes:
 - Fixed the Artisan Worktables spanner recipe conflicting with Ex Nihilo Creation hammer recipe. All Ex Nihilo recipes have been removed.
@@ -12,6 +13,8 @@ Players need to use a "Smashing Modifier" added to their tinker tools to gain th
 - Canteen recipe completely removed. Players can now only use glass bottles. The canteen had a few bugs in it (negative durability).
 - New blocks added by content tweaker: Blue Ice (from 1.13), all types of coral blocks (from 1.13). Coral doesn't die when out of water yet.
 Hopefully this feature would be added soon along with world generation using it.
+
+Planning on completely removing recurrrent complex soon. Currently trying to find a way to make starting structure in pillar.
 
 v0.2.0:
 A LOT OF CHANGES. PLEASE GIVE FEEDBACK. NONE OF THESE CHANGES ARE SET IN STONE, I WANT TO GET COMMUNITY FEEDBACK. 
