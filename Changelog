@@ -6,6 +6,9 @@ Added:
 - ContentTweaker. Again...
 - CoFH World. Because other mods don't provide the things I need.
 
+Removed:
+- Fancy block particles. Caused a tonne of lag and a few crashes.
+
 Configuration Changes:
 - Fixed the Artisan Worktables spanner recipe conflicting with Ex Nihilo Creation hammer recipe. All Ex Nihilo recipes have been removed.
 Players need to use a "Smashing Modifier" added to their tinker tools to gain the Ex Nihilo hammer smashing ability. 
