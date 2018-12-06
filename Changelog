@@ -1,6 +1,6 @@
 "# Deep-Sea-Salvage Changelog" 
 
-v0.2.1:
+v0.3.0:
 Changes:
 Added:
 - ContentTweaker. Again...
@@ -11,6 +11,9 @@ Added:
 Removed:
 - Fancy block particles. Caused a tonne of lag and a few crashes.
 - Recurrent Complex. Fully replaced with Pillar. Was too finicky to work with.
+- Twerksim. Now replaced with bonsai trees.
+- Snad. It's completely useless.
+- Primal Tech. Changed early game.
 
 Configuration Changes:
 - Fixed the Artisan Worktables spanner recipe conflicting with Ex Nihilo Creation hammer recipe. All Ex Nihilo recipes have been removed.
