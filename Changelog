@@ -16,6 +16,7 @@ Removed:
 - Snad. It's completely useless.
 - Primal Tech. Changed early game.
 - Stone Chests. Didn't make much sense, and all the structures that contained it were removed.
+- Lilliputian. Caused some crashes.
 
 Configuration Changes:
 - Fixed the Artisan Worktables spanner recipe conflicting with Ex Nihilo Creation hammer recipe. All Ex Nihilo recipes have been removed.
