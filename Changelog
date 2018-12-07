@@ -8,6 +8,7 @@ Added:
 - Bonsai Trees. For revamping the beginning.
 - World Primer. Running a command on world gen, to spawn starting structure.
 - Modular Machinary + Modular Diversity. Adds moar multiblocks.
+- Multithreaded Noise. Speeds up world generation.
 
 Removed:
 - Fancy block particles. Caused a tonne of lag and a few crashes.
