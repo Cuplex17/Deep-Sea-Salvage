@@ -31,6 +31,8 @@ Players need to use a "Smashing Modifier" added to their tinker tools to gain th
 - Canteen recipe completely removed. Players can now only use glass bottles. The canteen had a few bugs in it (negative durability).
 - New blocks added by content tweaker: Blue Ice (from 1.13), all types of coral blocks (from 1.13). Hopefully, world gen for it will be implemented
 soon.
+- Optimised world generation. Changed the water replacement done by biome tweaker to start at level 70 instead of level 10 since Cave Generator
+already took care of flooded caves.
 
 v0.2.0:
 A LOT OF CHANGES. PLEASE GIVE FEEDBACK. NONE OF THESE CHANGES ARE SET IN STONE, I WANT TO GET COMMUNITY FEEDBACK. 
