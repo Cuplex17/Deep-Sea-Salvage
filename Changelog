@@ -22,6 +22,8 @@ Removed:
 - Lilliputian. Caused some crashes.
 - Chisels and Bits. Having a mod that allows the player to create non-full blocks underwater to cheese the breathing mechanics may
 have not been a good idea.
+- Coral Reef. Replaced with content tweaker coral. Been wanting to get rid of this for so long, it was really ugly and sometimes replaced
+starting structure blocks.
 
 Configuration Changes:
 - Fixed the Artisan Worktables spanner recipe conflicting with Ex Nihilo Creation hammer recipe. All Ex Nihilo recipes have been removed.
