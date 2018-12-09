@@ -36,6 +36,8 @@ Players need to use a "Smashing Modifier" added to their tinker tools to gain th
 soon.
 - Optimised world generation. Changed the water replacement done by biome tweaker to start at level 70 instead of level 10 since Cave Generator
 already took care of flooded caves.
+- Enabled experimental optimisation in FoamFix. If you do find issues with this on, please set all of the experimental features to false
+and file a bug report. Thanks.
 
 v0.2.0:
 A LOT OF CHANGES. PLEASE GIVE FEEDBACK. NONE OF THESE CHANGES ARE SET IN STONE, I WANT TO GET COMMUNITY FEEDBACK. 
