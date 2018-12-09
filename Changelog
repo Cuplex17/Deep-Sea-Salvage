@@ -9,6 +9,7 @@ Added:
 - World Primer. Running a command on world gen, to spawn starting structure.
 - Modular Machinary + Modular Diversity. Adds moar multiblocks.
 - Fluid Funnel. Early game fluid transportation.
+- Chunk Pregenerator. To pregen chunks before exploring them, makes for a smoother gameplay experience. 
 
 Removed:
 - Fancy block particles. Caused a tonne of lag and a few crashes.
