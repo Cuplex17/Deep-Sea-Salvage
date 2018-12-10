@@ -13,7 +13,6 @@ Added:
 there is minimal lag (when the player is standing still). This will make sure you won't get disrupted. You can see the info at the bottom
 right of the HUD. 
 - Spatial Compat. Allows for more blocks to be allowed in the AE2 spatial storage system.
-- Lost Souls. More configuration for mob spawners in lost cities.
 
 Removed:
 - Fancy block particles. Caused a tonne of lag and a few crashes.
