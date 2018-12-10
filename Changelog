@@ -13,6 +13,7 @@ Added:
 there is minimal lag (when the player is standing still). This will make sure you won't get disrupted. You can see the info at the bottom
 right of the HUD. 
 - Spatial Compat. Allows for more blocks to be allowed in the AE2 spatial storage system.
+- Lost Souls. More configuration for mob spawners in lost cities.
 
 Removed:
 - Fancy block particles. Caused a tonne of lag and a few crashes.
@@ -39,6 +40,8 @@ already took care of flooded caves.
 and file a bug report. Thanks.
 
 World Generation Changes:
+- Disabled leaves generating in sunken cities.
+- Disabled railways generating between cities.
 - New blocks added by content tweaker: Blue Ice (from 1.13), all types of coral blocks (from 1.13). 
 - Fallen Meteor Site.
 - Cave Crystal Spikes. 
