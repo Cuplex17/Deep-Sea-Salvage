@@ -28,6 +28,7 @@ Removed:
 have not been a good idea.
 - Coral Reef. Replaced with content tweaker coral. Been wanting to get rid of this for so long, it was really ugly and sometimes replaced
 starting structure blocks.
+- Incorporeal. Useless since the player starts with a basic ME network.
 
 Configuration Changes:
 - Fixed the Artisan Worktables spanner recipe conflicting with Ex Nihilo Creation hammer recipe. All Ex Nihilo recipes have been removed.
