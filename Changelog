@@ -18,6 +18,7 @@ right of the HUD.
 - Tech reborn. Replaces Immersive Engineering.
 - Flux Networks. Adds to the futuristic feel.
 - Game Stages. For gating stuff.
+- Zen Stages. Zenscript for gamestages.
 
 Removed:
 - Fancy block particles. Caused a tonne of lag and a few crashes.
