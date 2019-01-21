@@ -19,6 +19,7 @@ right of the HUD.
 - Flux Networks. Adds to the futuristic feel.
 - Game Stages. For gating stuff.
 - Zen Stages. Zenscript for gamestages.
+- StructureUtils. Allows me to save larger structures.
 
 Removed:
 - Fancy block particles. Caused a tonne of lag and a few crashes.
