@@ -21,6 +21,7 @@ right of the HUD.
 - Zen Stages. Zenscript for gamestages.
 - StructureUtils. Allows me to save larger structures.
 - Bring Me the Rings. Expands the number of bauble slots.
+- Spawner Control. Allows me to control mob spawners.
 
 Removed:
 - Fancy block particles. Caused a tonne of lag and a few crashes.
