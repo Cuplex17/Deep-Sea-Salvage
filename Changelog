@@ -20,6 +20,7 @@ right of the HUD.
 - Game Stages. For gating stuff.
 - Zen Stages. Zenscript for gamestages.
 - StructureUtils. Allows me to save larger structures.
+- Bring Me the Rings. Expands the number of bauble slots.
 
 Removed:
 - Fancy block particles. Caused a tonne of lag and a few crashes.
