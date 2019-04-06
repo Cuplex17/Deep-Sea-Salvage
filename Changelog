@@ -1,5 +1,11 @@
 "# Deep-Sea-Salvage Changelog" 
 
+v0.3.1
+Changes:
+Mekanism is replaced with Mekanica. Should improve performance.
+Added:
+- Phosphor. Should speed up world loading and world gen.
+
 v0.3.0:
 Changes:
 Added:
